@@ -1,10 +1,10 @@
 h1 {
   font-size: 8em; /* 1em = 12pt = 16px */
   font-family: "Old Newspaper Types", sans-serif;
-  color: ForestGreen
+  color: forestgreen
 }
 
 p{
   font-family: Courier, Monaco, monospace;
-  color: brown
+  color: red
 }
